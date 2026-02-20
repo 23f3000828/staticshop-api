@@ -129,6 +129,10 @@
     "home": {
       "count": 4,
       "inventoryValue": 147873.31
+    },
+    "electronics": {
+      "count": 6,
+      "inventoryValue": 272902.56
     }
   }
 }
